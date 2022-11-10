@@ -22,6 +22,7 @@ export default {
     flex-direction: column;
     color: white;
     background-color: rgb(47 71 50);
+    border: 1px solid white;
 
     img {
         width: 90%;
